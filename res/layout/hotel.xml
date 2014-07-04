@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="#ffffff" >
+
+        <LinearLayout 
+         android:layout_width="fill_parent"
+    	 android:layout_height="wrap_content"
+    	 android:orientation="vertical" 
+        >
+        <ImageView 
+        android:src="@drawable/fairmontbanner"
+        android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"
+        android:id="@+id/img11"
+        />
+	    <TextView 
+	        android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	    	android:textColor="#000000"
+	    	android:id="@+id/txt11"
+	    	android:gravity="center_horizontal"
+	    	android:text="@string/txt11"
+	        />
+	    <ImageView 
+	        android:src="@drawable/courtyardbanner"
+	        android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	        android:id="@+id/img12"
+	        />
+	     <TextView 
+	        android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	    	android:id="@+id/txt12"
+	    	android:textColor="#000000"
+	    	android:gravity="center_horizontal"
+	    	android:text="@string/txt12"
+	        />
+	    <ImageView 
+	        android:src="@drawable/indigobanner"
+	        android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	        android:id="@+id/img13"
+	        />
+	     <TextView 
+	        android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	    	android:id="@+id/txt13"
+	    	android:textColor="#000000"
+	    	android:gravity="center_horizontal"
+	    	android:text="@string/txt13"
+	        />
+	    <ImageView 
+	        android:src="@drawable/westinbanner"
+	        android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	        android:id="@+id/img14"
+	        />
+	     <TextView 
+	        android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	    	android:id="@+id/txt14"
+	    	android:textColor="#000000"
+	    	android:gravity="center_horizontal"
+	    	android:text="@string/txt14"
+	        />
+	    <ImageView 
+	        android:src="@drawable/brookbanner"
+	        android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	        android:id="@+id/img15"
+	        />
+	     <TextView 
+	        android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	    	android:id="@+id/txt15"
+	    	android:textColor="#000000"
+	    	android:gravity="center_horizontal"
+	    	android:text="@string/txt15"
+	        />
+	   
+	        
+    </LinearLayout>
+    
+    
+
+</ScrollView>

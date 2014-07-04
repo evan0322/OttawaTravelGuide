@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">TravelingApp</string>
+    <string name="menu_settings">Settings</string>
+    <string name="MainTop">Welcome to Ottawa</string>
+    <string name="topattraction">TopAttraction</string>
+    <string name="calendar">Calendar</string>
+    <string name="hotel">Hotel</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="txt1"><u>Parliament Hill</u></string>
+    <string name="txt2"><u>Rideau Hall</u></string>
+    <string name="txt3"><u>Rideau Canal</u></string>
+    <string name="txt4"><u>Byward Market</u></string>
+    <string name="txt5"><u>National Gallery of Canada</u></string>
+    <string name="txt6"><u>Canadian Museum of Civilization</u></string>
+    <string name="txt7"><u>Royal Canadian Mint</u></string>
+    <string name="txt8"><u>Canadian War Museum</u></string>
+    <string name="txt9"><u>National Arts Centre</u></string>
+    <string name="txt10"><u>National Arts Centre</u></string>
+    <string name="txt11"><u>Fairmont Chateau Laurier</u></string>
+    <string name="txt12"><u>Courtyard Ottawa East</u></string>
+    <string name="txt13"><u>Hotel Indigo</u></string>
+    <string name="txt14"><u>The Westin Ottawa</u></string>
+    <string name="txt15"><u>Brookstreet Hotel</u></string>
+    <string name="txt20"><u>Play Wine and Food</u></string>
+    <string name="txt21"><u>Beckta Dining and Wine</u></string>
+    <string name="txt22"><u>Pelican Grill</u></string>
+    <string name="txt23"><u>Beavertails</u></string>
+    <string name="txt24"><u>Stella Luna</u></string>
+    <string name="txt25"><u>Coconut Lagoon Restaurant</u></string>
+    <string name="txt97">Address</string>
+    <string name="txt98">Related Links</string>
+    <string name="txt99">Fast Facts</string>
+    <string name="rate">Add</string>
+    <string name="comments">Comments</string>
+    <string name="comment">Comment</string>
+    <string name="ok">OK</string>
+    <string name="cancle">Cancle</string>
+    <string name="success">success</string>
+    <string name="failed">failed</string>
+    
+
+</resources>

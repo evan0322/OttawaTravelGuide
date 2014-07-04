@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="#ffffff" >
+
+        <LinearLayout 
+         android:layout_width="fill_parent"
+    	 android:layout_height="wrap_content"
+    	 android:orientation="vertical" 
+        >
+        <ImageView 
+        android:src="@drawable/playbanner"
+        android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"
+        android:id="@+id/img20"
+        />
+	    <TextView 
+	        android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	    	android:textColor="#000000"
+	    	android:id="@+id/txt20"
+	    	android:gravity="center_horizontal"
+	    	android:text="@string/txt20"
+	        />
+	    <ImageView 
+	        android:src="@drawable/becktabanner"
+	        android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	        android:id="@+id/img21"
+	        />
+	     <TextView 
+	        android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	    	android:id="@+id/txt21"
+	    	android:textColor="#000000"
+	    	android:gravity="center_horizontal"
+	    	android:text="@string/txt21"
+	        />
+	    <ImageView 
+	        android:src="@drawable/pelicanbanner"
+	        android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	        android:id="@+id/img22"
+	        />
+	     <TextView 
+	        android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	    	android:id="@+id/txt22"
+	    	android:textColor="#000000"
+	    	android:gravity="center_horizontal"
+	    	android:text="@string/txt22"
+	        />
+	    <ImageView 
+	        android:src="@drawable/beavertailsbanner"
+	        android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	        android:id="@+id/img23"
+	        />
+	     <TextView 
+	        android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	    	android:id="@+id/txt23"
+	    	android:textColor="#000000"
+	    	android:gravity="center_horizontal"
+	    	android:text="@string/txt23"
+	        />
+	    <ImageView 
+	        android:src="@drawable/stellabanner"
+	        android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	        android:id="@+id/img24"
+	        />
+	     <TextView 
+	        android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	    	android:id="@+id/txt24"
+	    	android:textColor="#000000"
+	    	android:gravity="center_horizontal"
+	    	android:text="@string/txt24"
+	        />
+	    <ImageView 
+	        android:src="@drawable/coconutbanner"
+	        android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	        android:id="@+id/img25"
+	        />
+	     <TextView 
+	        android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	    	android:id="@+id/txt25"
+	    	android:textColor="#000000"
+	    	android:gravity="center_horizontal"
+	    	android:text="@string/txt25"
+	        />
+	    
+	        
+    </LinearLayout>
+    
+    
+
+</ScrollView>
